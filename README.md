@@ -16,3 +16,22 @@ The goal is to provide actionable intelligence for investors, policymakers, and 
 │   └── dashboard/           # React Frontend
 ├── requirements.txt         # Project dependencies
 └── README.md
+
+# Brent Oil Dashboard Setup
+
+## 1. Backend (Flask)
+- Navigate to `/backend`
+- Install dependencies: `pip install flask flask-cors pandas`
+- Run the server: `python app.py`
+- *Endpoint:* `http://localhost:5000/api/prices`
+
+## 2. Frontend (React)
+- Navigate to `/frontend`
+- Install dependencies: `npm install`
+- Run the app: `npm start`
+- *View at:* `http://localhost:3000`
+
+## 3. Key Features
+- **Structural Break Visualization:** Red dashed lines indicate change points detected by our Bayesian PyMC model.
+- **KPI Indicators:** Real-time display of market volatility and regime shift percentages.
+- **Responsive Design:** Dashboard scales for tablet and mobile viewing.
