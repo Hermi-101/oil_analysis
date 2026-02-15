@@ -1,1 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+shap
+pymc
 pytest
+streamlit
