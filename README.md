@@ -49,6 +49,19 @@ Evaluation: Convergence validated via R-hat values (1.0) and Effective Sample Si
 🔮 Future Improvements
 Multivariate Integration: Incorporate US Dollar Index (DXY) and Global GDP indices as exogenous predictors.
 Online Learning: Implement real-time "Streaming Change Point Detection" for intra-day alerts.
+
+### 🧪 Unit Testing
+![Unit Tests](assets/tests.png)
+
+### 🚀 CI/CD Pipeline
+![CI Badge](assets/ci_badge.png)
+
+### 📊 Dashboard
+![Dashboard](assets/dashboard.png)
+
+### 🔬 SHAP Explainability
+![SHAP](assets/shap.png)
+
 ✍️ Author
 
 Hermela Angaw
