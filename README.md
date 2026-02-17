@@ -51,20 +51,21 @@ Multivariate Integration: Incorporate US Dollar Index (DXY) and Global GDP indic
 Online Learning: Implement real-time "Streaming Change Point Detection" for intra-day alerts.
 
 ### 🧪 Unit Testing
-![Unit Tests](assets/tests.png)
+![Unit Tests](./assets/tests.png)
 
 ### 🚀 CI/CD Pipeline
-![CI Badge](assets/ci_badge.png)
+![CI Badge](./assets/ci_badge.png)
 
 ### 📊 Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](./assets/dashboard.png)
 
 ### 🔬 SHAP Explainability
-![SHAP](assets/shap.png)
+![SHAP](./assets/shap.png)
 
 ✍️ Author
 
 Hermela Angaw
+
 
 
 
