@@ -54,14 +54,19 @@ Online Learning: Implement real-time "Streaming Change Point Detection" for intr
 
 | Feature | Evidence |
 | :--- | :--- |
-| **Unit Testing** | <img src="https://raw.githubusercontent.com/Hermi-101/oil-analysis/task-1/assets/tests.png" width="400"> |
-| **CI/CD Pipeline** | <img src="https://raw.githubusercontent.com/Hermi-101/oil-analysis/task-1/assets/ci_badge.png" width="400"> |
-| **Market Dashboard** | <img src="https://raw.githubusercontent.com/Hermi-101/oil-analysis/task-1/assets/dashboard.png" width="400"> |
-| **Model Explainability** | <img src="https://raw.githubusercontent.com/Hermi-101/oil-analysis/task-1/assets/shap.png" width="400"> |
+| **Unit Testing** |  <img width="522" height="144" alt="tests" src="https://github.com/user-attachments/assets/f4f37036-3890-4422-b54b-2246ef164404" />
+
+| **CI/CD Pipeline** |   <img width="938" height="534" alt="ci_badge" src="https://github.com/user-attachments/assets/c2820f01-f8f0-4d72-94ce-68dff2a0544c" />
+
+| **Market Dashboard** | <img width="1579" height="594" alt="dashboard" src="https://github.com/user-attachments/assets/8a8e00a3-beca-4f82-870a-5b1af44ce272" />
+
+| **Model Explainability** |<img width="760" height="276" alt="shap" src="https://github.com/user-attachments/assets/a2aa1815-06ae-48eb-867e-0f4a642f9397" />
+
 
 ✍️ Author
 
 Hermela Angaw
+
 
 
 
