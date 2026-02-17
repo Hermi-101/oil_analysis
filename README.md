@@ -51,21 +51,23 @@ Multivariate Integration: Incorporate US Dollar Index (DXY) and Global GDP indic
 Online Learning: Implement real-time "Streaming Change Point Detection" for intra-day alerts.
 
 ## 🛠 Engineering Excellence & Reliability
+## 🛠 Engineering Excellence & Reliability
 
-| Feature | Evidence |
-| :--- | :--- |
-| **Unit Testing** |  <img width="522" height="144" alt="tests" src="https://github.com/user-attachments/assets/f4f37036-3890-4422-b54b-2246ef164404" />
+### 🧪 Unit Testing
+![Tests](assets/tests.png)
 
-| **CI/CD Pipeline** |   <img width="938" height="534" alt="ci_badge" src="https://github.com/user-attachments/assets/c2820f01-f8f0-4d72-94ce-68dff2a0544c" />
+### 🚀 CI/CD Pipeline
+![CI](assets/ci_badge.png)
 
-| **Market Dashboard** | <img width="1579" height="594" alt="dashboard" src="https://github.com/user-attachments/assets/8a8e00a3-beca-4f82-870a-5b1af44ce272" />
+### 📊 Dashboard
+![Dashboard](assets/dashboard.png)
 
-| **Model Explainability** |<img width="760" height="276" alt="shap" src="https://github.com/user-attachments/assets/a2aa1815-06ae-48eb-867e-0f4a642f9397" />
-
-
+### 🔬 SHAP Explainability
+![SHAP](assets/shap.png)
 ✍️ Author
 
 Hermela Angaw
+
 
 
 
