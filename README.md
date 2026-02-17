@@ -50,21 +50,19 @@ Evaluation: Convergence validated via R-hat values (1.0) and Effective Sample Si
 Multivariate Integration: Incorporate US Dollar Index (DXY) and Global GDP indices as exogenous predictors.
 Online Learning: Implement real-time "Streaming Change Point Detection" for intra-day alerts.
 
-### 🧪 Unit Testing
-![Unit Tests](./assets/tests.png)
+## 🛠 Engineering Excellence & Reliability
 
-### 🚀 CI/CD Pipeline
-![CI Badge](./assets/ci_badge.png)
-
-### 📊 Dashboard
-![Dashboard](./assets/dashboard.png)
-
-### 🔬 SHAP Explainability
-![SHAP](./assets/shap.png)
+| Feature | Evidence |
+| :--- | :--- |
+| **Unit Testing** | <img src="https://raw.githubusercontent.com/Hermi-101/oil-analysis/task-1/assets/tests.png" width="400"> |
+| **CI/CD Pipeline** | <img src="https://raw.githubusercontent.com/Hermi-101/oil-analysis/task-1/assets/ci_badge.png" width="400"> |
+| **Market Dashboard** | <img src="https://raw.githubusercontent.com/Hermi-101/oil-analysis/task-1/assets/dashboard.png" width="400"> |
+| **Model Explainability** | <img src="https://raw.githubusercontent.com/Hermi-101/oil-analysis/task-1/assets/shap.png" width="400"> |
 
 ✍️ Author
 
 Hermela Angaw
+
 
 
 
