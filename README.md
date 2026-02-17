@@ -49,7 +49,22 @@ Evaluation: Convergence validated via R-hat values (1.0) and Effective Sample Si
 🔮 Future Improvements
 Multivariate Integration: Incorporate US Dollar Index (DXY) and Global GDP indices as exogenous predictors.
 Online Learning: Implement real-time "Streaming Change Point Detection" for intra-day alerts.
+ Terminal showing "5 passed in X.Xs"
+<img width="522" height="144" alt="Screenshot 2026-02-15 200701" src="https://github.com/user-attachments/assets/ff4281b8-2b9c-4567-a957-cb2d2db8c917" />
+
+GitHub Actions page showing the green "CI Pipeline" checkmark
+<img width="938" height="534" alt="Screenshot 2026-02-15 195100" src="https://github.com/user-attachments/assets/ce20b546-f964-41cc-9bf4-02582f3a1f45" />
+
+Streamlit Dashboard showing the price chart
+<img width="1579" height="594" alt="Screenshot 2026-02-15 185127" src="https://github.com/user-attachments/assets/7d03b5d9-badd-4874-a34e-a61f27902ce2" />
+
+4. SHAP
+<img width="760" height="276" alt="image" src="https://github.com/user-attachments/assets/b0aa2f07-b2a6-48fa-895f-a1f53a2f851e" />
+
+
 ✍️ Author
+
 Hermela Angaw
+
 
 
